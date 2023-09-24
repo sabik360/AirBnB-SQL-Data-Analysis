@@ -3,7 +3,7 @@
 https://morioh.com/a/a1f87b2f39ba/new
 
 In this data analysis project we will try to find out the most revenue creating airbnbs in torronto using sql alone.
-![grab-landing-page]([https://github.com/sabik360/final/blob/main/Preview.gif](https://raw.githubusercontent.com/sabik360/AirBnB-SQL-Data-Analysis/main/wp10784400.webp))
+![grab-landing-page]([https://raw.githubusercontent.com/sabik360/AirBnB-SQL-Data-Analysis/main/wp10784400.webp])
 
 
 
