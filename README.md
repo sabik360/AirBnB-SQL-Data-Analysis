@@ -15,6 +15,7 @@ In this data analysis project we will try to find out the most revenue creating 
 We can download dataset from airbnb insider website.,http://insideairbnb.com/get-the-data/ ,There are 3 csv files to be downloaded : Listings, Calendar and Reviews.
 Tools Needed : Python/Notepad++,Sql Workbench.
 
+![grab-landing-page](https://raw.githubusercontent.com/sabik360/AirBnB-SQL-Data-Analysis/main/Tables.PNG)
 
 ### Now there are ways to import data to SQL Workbench from a csv file. 
 
