@@ -25,5 +25,6 @@ Tools Needed : Python/Notepad++,Sql Workbench.
 
 Using one of above 3 methods do the importing of all 3 tables into Workbench.
 
+### Then Please see the queries here : https://morioh.com/a/a1f87b2f39ba/new
 
 
