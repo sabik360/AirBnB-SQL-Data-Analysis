@@ -22,6 +22,7 @@ Tools Needed : Python/Notepad++,Sql Workbench.
 1) One is a premade python script that create pandas dataframe and send it to sql workbench using alchemy, https://github.com/sabik360/AirBnB-SQL-Data-Analysis/blob/main/CSV%20TO%20SQL.py
 2) Using SQLWorkbench wizard to import tables from a  csv file.
 3) Use CSV lint plugin to convert CSV file into a sql create table command which we can run on Workbench.https://github.com/BdR76/CSVLint/
+4) A tool made by me which do this with a single click - https://github.com/sabik360/CSV-to-SQL-Converter
 
 Using one of above 3 methods do the importing of all 3 tables into Workbench.
 
